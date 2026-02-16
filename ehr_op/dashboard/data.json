@@ -1,0 +1,1614 @@
+{
+  "metrics": {
+    "total_diagnoses": 12988054,
+    "unique_facilities": 1685,
+    "unique_diagnosis_types": 8744,
+    "avg_per_facility": 7708.04
+  },
+  "top_diagnoses": {
+    "labels": [
+      "Gastritis",
+      "Q fever",
+      "Hypertension",
+      "Diabetes mellitus",
+      "Cold",
+      "Skin allergy",
+      "DM - Diabetes mellitus",
+      "Sick headache",
+      "Back strain",
+      "HTN - Hypertension",
+      "Viral illness",
+      "Cough syncope",
+      "Viral myalgia",
+      "COLD",
+      "Whooping cough"
+    ],
+    "values": [
+      1158546,
+      765619,
+      719157,
+      706645,
+      515750,
+      487126,
+      472414,
+      380929,
+      354834,
+      345170,
+      273893,
+      268677,
+      253547,
+      249048,
+      204999
+    ]
+  },
+  "top_facilities": {
+    "labels": [
+      "UPHC NGO Colony",
+      "UPHC Kothapeta",
+      "UPHC Pudupeta North (Chavidi)",
+      "UPHC Indira Nagar",
+      "UPHC NTR Colony",
+      "UPHC Ambedkar Nagar",
+      "UPHC Gandhi Nagar",
+      "UPHC Maruthi Nagar",
+      "UPHC Ambedkar Colony",
+      "UPHC Lambadipeta"
+    ],
+    "values": [
+      59554,
+      58369,
+      53207,
+      42490,
+      41171,
+      36876,
+      36862,
+      35626,
+      33977,
+      31231
+    ]
+  },
+  "type_breakdown": {
+    "PHC": 6067328,
+    "UPHC": 6913624
+  },
+  "category_breakdown": {
+    "labels": [
+      "Musculoskeletal & Injuries",
+      "Infectious & Parasitic Diseases (High Volume)",
+      "Others",
+      "Gastrointestinal & Dental (Digestive)",
+      "Endocrine, Nutritional & Metabolic",
+      "Cardiovascular (Circulatory)",
+      "Neurological & Mental Health",
+      "Respiratory System",
+      "Genitourinary & Reproductive",
+      "Skin & Subcutaneous Tissue"
+    ],
+    "values": [
+      2481303,
+      2125990,
+      1668981,
+      1624830,
+      1471797,
+      1204220,
+      1079618,
+      1019767,
+      168956,
+      142592
+    ]
+  },
+  "subcategory_breakdown": {
+    "labels": [
+      "Viral fever",
+      "Others",
+      "Diabetes Mellitus (Type 1 & 2)",
+      "Gastritis",
+      "Hypertension (HTN)",
+      "Common Cold",
+      "Open wounds",
+      "Headache",
+      "Strains",
+      "Contusions",
+      "Hepatitis (A/B/C)",
+      "Vertigo",
+      "Arthritis (Osteoarthritis, Rheumatoid)",
+      "Sprains",
+      "Diarrhea"
+    ],
+    "values": [
+      1694506,
+      1668981,
+      1313681,
+      1208652,
+      1190076,
+      771723,
+      756185,
+      651811,
+      516424,
+      417683,
+      408124,
+      296624,
+      261823,
+      247831,
+      195855
+    ]
+  },
+  "facility_details": [
+    {
+      "facility_name": "UPHC NGO Colony",
+      "total_count": 59554,
+      "unique_diagnoses": 397
+    },
+    {
+      "facility_name": "UPHC Kothapeta",
+      "total_count": 58369,
+      "unique_diagnoses": 484
+    },
+    {
+      "facility_name": "UPHC Pudupeta North (Chavidi)",
+      "total_count": 53207,
+      "unique_diagnoses": 189
+    },
+    {
+      "facility_name": "UPHC Indira Nagar",
+      "total_count": 42490,
+      "unique_diagnoses": 517
+    },
+    {
+      "facility_name": "UPHC NTR Colony",
+      "total_count": 41171,
+      "unique_diagnoses": 290
+    },
+    {
+      "facility_name": "UPHC Ambedkar Nagar",
+      "total_count": 36876,
+      "unique_diagnoses": 262
+    },
+    {
+      "facility_name": "UPHC Gandhi Nagar",
+      "total_count": 36862,
+      "unique_diagnoses": 333
+    },
+    {
+      "facility_name": "UPHC Maruthi Nagar",
+      "total_count": 35626,
+      "unique_diagnoses": 251
+    },
+    {
+      "facility_name": "UPHC Ambedkar Colony",
+      "total_count": 33977,
+      "unique_diagnoses": 425
+    },
+    {
+      "facility_name": "UPHC Lambadipeta",
+      "total_count": 31231,
+      "unique_diagnoses": 222
+    },
+    {
+      "facility_name": "UPHC Market Yard",
+      "total_count": 29989,
+      "unique_diagnoses": 91
+    },
+    {
+      "facility_name": "UPHC Vykuntapuram",
+      "total_count": 29699,
+      "unique_diagnoses": 170
+    },
+    {
+      "facility_name": "UPHC Innispeta",
+      "total_count": 29468,
+      "unique_diagnoses": 153
+    },
+    {
+      "facility_name": "PHC KUPPAMBADUR",
+      "total_count": 28426,
+      "unique_diagnoses": 274
+    },
+    {
+      "facility_name": "UPHC Erra Buruju",
+      "total_count": 28361,
+      "unique_diagnoses": 111
+    },
+    {
+      "facility_name": "UPHC Papa Colony",
+      "total_count": 28203,
+      "unique_diagnoses": 41
+    },
+    {
+      "facility_name": "UPHC Varahalayapeta",
+      "total_count": 27847,
+      "unique_diagnoses": 226
+    },
+    {
+      "facility_name": "UPHC Srinivasa Nagar",
+      "total_count": 27803,
+      "unique_diagnoses": 243
+    },
+    {
+      "facility_name": "UPHC Shanthi Nagar",
+      "total_count": 27591,
+      "unique_diagnoses": 297
+    },
+    {
+      "facility_name": "UPHC Vengalreddy Nagar",
+      "total_count": 27429,
+      "unique_diagnoses": 110
+    }
+  ],
+  "category_data": {
+    "Musculoskeletal & Injuries": {
+      "metrics": {
+        "total_diagnoses": 2481303,
+        "unique_facilities": 1676,
+        "unique_diagnosis_types": 1626,
+        "avg_per_facility": 1480.49
+      },
+      "top_diagnoses": {
+        "labels": [
+          "Skin allergy",
+          "Back strain",
+          "Leg injury",
+          "Arthritis",
+          "Wound",
+          "Dog bite",
+          "Injury",
+          "Leg burns",
+          "Back sprain",
+          "Neck sprain"
+        ],
+        "values": [
+          487126,
+          354834,
+          191082,
+          123641,
+          121486,
+          96703,
+          95026,
+          94244,
+          80004,
+          49145
+        ]
+      },
+      "subcategory_breakdown": {
+        "labels": [
+          "Open wounds",
+          "Strains",
+          "Contusions",
+          "Arthritis (Osteoarthritis, Rheumatoid)",
+          "Sprains",
+          "Burns",
+          "Bites (Dog, Snake, Insect)",
+          "Back Pain (Lumbago)",
+          "Fractures (Ribs, Limbs)",
+          "Neuropathy"
+        ],
+        "values": [
+          756185,
+          516424,
+          417683,
+          261823,
+          247831,
+          146224,
+          114646,
+          13245,
+          3618,
+          2893
+        ]
+      },
+      "top_facilities": {
+        "labels": [
+          "UPHC Pudupeta North (Chavidi)",
+          "UPHC Innispeta",
+          "UPHC Meraka Veedhi",
+          "PHC RAJAPURAM",
+          "UPHC NTR Colony",
+          "PHC VALLIPEDU",
+          "PHC NUZENDLA",
+          "UPHC Shanthi Nagar",
+          "UPHC Mannuru",
+          "UPHC Kothapeta"
+        ],
+        "values": [
+          12721,
+          11105,
+          10081,
+          9440,
+          9205,
+          8988,
+          8747,
+          8535,
+          8304,
+          8166
+        ]
+      },
+      "type_breakdown": {
+        "PHC": 1329719,
+        "UPHC": 1151341
+      },
+      "facility_details": [
+        {
+          "facility_name": "UPHC Pudupeta North (Chavidi)",
+          "total_count": 12721,
+          "unique_diagnoses": 53
+        },
+        {
+          "facility_name": "UPHC Innispeta",
+          "total_count": 11105,
+          "unique_diagnoses": 55
+        },
+        {
+          "facility_name": "UPHC Meraka Veedhi",
+          "total_count": 10081,
+          "unique_diagnoses": 79
+        },
+        {
+          "facility_name": "PHC RAJAPURAM",
+          "total_count": 9440,
+          "unique_diagnoses": 4
+        },
+        {
+          "facility_name": "UPHC NTR Colony",
+          "total_count": 9205,
+          "unique_diagnoses": 75
+        },
+        {
+          "facility_name": "PHC VALLIPEDU",
+          "total_count": 8988,
+          "unique_diagnoses": 5
+        },
+        {
+          "facility_name": "PHC NUZENDLA",
+          "total_count": 8747,
+          "unique_diagnoses": 21
+        },
+        {
+          "facility_name": "UPHC Shanthi Nagar",
+          "total_count": 8535,
+          "unique_diagnoses": 108
+        },
+        {
+          "facility_name": "UPHC Mannuru",
+          "total_count": 8304,
+          "unique_diagnoses": 18
+        },
+        {
+          "facility_name": "UPHC Kothapeta",
+          "total_count": 8166,
+          "unique_diagnoses": 123
+        }
+      ]
+    },
+    "Infectious & Parasitic Diseases (High Volume)": {
+      "metrics": {
+        "total_diagnoses": 2125990,
+        "unique_facilities": 1680,
+        "unique_diagnosis_types": 485,
+        "avg_per_facility": 1265.47
+      },
+      "top_diagnoses": {
+        "labels": [
+          "Q fever",
+          "Viral illness",
+          "Viral myalgia",
+          "Febrile illness",
+          "Acute URI",
+          "Mud fever",
+          "Hay fever",
+          "Ear infection",
+          "Three day fever",
+          "Infection"
+        ],
+        "values": [
+          765619,
+          273893,
+          253547,
+          135372,
+          114345,
+          53584,
+          50014,
+          49617,
+          44955,
+          38737
+        ]
+      },
+      "subcategory_breakdown": {
+        "labels": [
+          "Viral fever",
+          "Hepatitis (A/B/C)",
+          "Scabies",
+          "Malaria",
+          "Helminthiasis (Worm infections)",
+          "Dengue",
+          "Filariasis",
+          "Typhoid fever",
+          "Tuberculosis (TB)",
+          "Mumps"
+        ],
+        "values": [
+          1694506,
+          408124,
+          17741,
+          2943,
+          1812,
+          334,
+          160,
+          116,
+          83,
+          77
+        ]
+      },
+      "top_facilities": {
+        "labels": [
+          "UPHC NGO Colony",
+          "UPHC Postal Colony-4(P&T Colony)",
+          "UPHC Sultanabad",
+          "UPHC Papa Colony",
+          "UPHC Erra Buruju",
+          "UPHC Kothapeta",
+          "UPHC Opp Ligori School",
+          "PHC NEELAKANTAPURAM",
+          "PHC GANGAVARAM",
+          "UPHC Anandanagar"
+        ],
+        "values": [
+          16519,
+          12585,
+          11381,
+          10084,
+          9923,
+          9847,
+          9492,
+          8926,
+          8832,
+          8464
+        ]
+      },
+      "type_breakdown": {
+        "PHC": 1106021,
+        "UPHC": 1018029
+      },
+      "facility_details": [
+        {
+          "facility_name": "UPHC NGO Colony",
+          "total_count": 16519,
+          "unique_diagnoses": 39
+        },
+        {
+          "facility_name": "UPHC Postal Colony-4(P&T Colony)",
+          "total_count": 12585,
+          "unique_diagnoses": 2
+        },
+        {
+          "facility_name": "UPHC Sultanabad",
+          "total_count": 11381,
+          "unique_diagnoses": 4
+        },
+        {
+          "facility_name": "UPHC Papa Colony",
+          "total_count": 10084,
+          "unique_diagnoses": 5
+        },
+        {
+          "facility_name": "UPHC Erra Buruju",
+          "total_count": 9923,
+          "unique_diagnoses": 15
+        },
+        {
+          "facility_name": "UPHC Kothapeta",
+          "total_count": 9847,
+          "unique_diagnoses": 36
+        },
+        {
+          "facility_name": "UPHC Opp Ligori School",
+          "total_count": 9492,
+          "unique_diagnoses": 6
+        },
+        {
+          "facility_name": "PHC NEELAKANTAPURAM",
+          "total_count": 8926,
+          "unique_diagnoses": 11
+        },
+        {
+          "facility_name": "PHC GANGAVARAM",
+          "total_count": 8832,
+          "unique_diagnoses": 11
+        },
+        {
+          "facility_name": "UPHC Anandanagar",
+          "total_count": 8464,
+          "unique_diagnoses": 6
+        }
+      ]
+    },
+    "Gastrointestinal & Dental (Digestive)": {
+      "metrics": {
+        "total_diagnoses": 1624830,
+        "unique_facilities": 1667,
+        "unique_diagnosis_types": 732,
+        "avg_per_facility": 974.7
+      },
+      "top_diagnoses": {
+        "labels": [
+          "Gastritis",
+          "Acute diarrhea",
+          "Leg ulcer",
+          "Stomatitis",
+          "Tooth decay",
+          "Atonic constipation",
+          "Dental caries",
+          "Acute diarrhoea",
+          "Tooth caries",
+          "Viral diarrhea"
+        ],
+        "values": [
+          1158546,
+          117951,
+          42169,
+          39122,
+          18015,
+          17888,
+          17020,
+          15267,
+          14083,
+          13268
+        ]
+      },
+      "subcategory_breakdown": {
+        "labels": [
+          "Gastritis",
+          "Diarrhea",
+          "Dental Caries",
+          "Peptic Ulcer",
+          "Oral ulcers",
+          "GERD",
+          "Acute Gastroenteritis (AGE)",
+          "Appendicitis",
+          "Gingivitis",
+          "Dysentery"
+        ],
+        "values": [
+          1208652,
+          195855,
+          79857,
+          66571,
+          42758,
+          12821,
+          7737,
+          4796,
+          2765,
+          1428
+        ]
+      },
+      "top_facilities": {
+        "labels": [
+          "UPHC NGO Colony",
+          "UPHC Papa Colony",
+          "UPHC Akkayapalli",
+          "UPHC Yagarlapalli",
+          "UPHC Aretamma Colony(Bestha Veedhi) Puttur",
+          "UPHC Ambedkar Nagar",
+          "UPHC Kothapeta",
+          "PHC TADUVAI",
+          "UPHC Maruthi Nagar",
+          "UPHC Recharlapeta"
+        ],
+        "values": [
+          7416,
+          6763,
+          6359,
+          5821,
+          5548,
+          5529,
+          5405,
+          5328,
+          5003,
+          4979
+        ]
+      },
+      "type_breakdown": {
+        "PHC": 843813,
+        "UPHC": 779566
+      },
+      "facility_details": [
+        {
+          "facility_name": "UPHC NGO Colony",
+          "total_count": 7416,
+          "unique_diagnoses": 44
+        },
+        {
+          "facility_name": "UPHC Papa Colony",
+          "total_count": 6763,
+          "unique_diagnoses": 8
+        },
+        {
+          "facility_name": "UPHC Akkayapalli",
+          "total_count": 6359,
+          "unique_diagnoses": 9
+        },
+        {
+          "facility_name": "UPHC Yagarlapalli",
+          "total_count": 5821,
+          "unique_diagnoses": 6
+        },
+        {
+          "facility_name": "UPHC Aretamma Colony(Bestha Veedhi) Puttur",
+          "total_count": 5548,
+          "unique_diagnoses": 13
+        },
+        {
+          "facility_name": "UPHC Ambedkar Nagar",
+          "total_count": 5529,
+          "unique_diagnoses": 33
+        },
+        {
+          "facility_name": "UPHC Kothapeta",
+          "total_count": 5405,
+          "unique_diagnoses": 66
+        },
+        {
+          "facility_name": "PHC TADUVAI",
+          "total_count": 5328,
+          "unique_diagnoses": 34
+        },
+        {
+          "facility_name": "UPHC Maruthi Nagar",
+          "total_count": 5003,
+          "unique_diagnoses": 34
+        },
+        {
+          "facility_name": "UPHC Recharlapeta",
+          "total_count": 4979,
+          "unique_diagnoses": 2
+        }
+      ]
+    },
+    "Skin & Subcutaneous Tissue": {
+      "metrics": {
+        "total_diagnoses": 142592,
+        "unique_facilities": 1538,
+        "unique_diagnosis_types": 384,
+        "avg_per_facility": 92.71
+      },
+      "top_diagnoses": {
+        "labels": [
+          "Skin rash",
+          "Dermatitis",
+          "Body tinea",
+          "Urticaria",
+          "Raw skin",
+          "Common acne",
+          "Eczema",
+          "Generalized rash",
+          "Tinea",
+          "Ringworm"
+        ],
+        "values": [
+          87642,
+          8299,
+          6684,
+          4259,
+          2956,
+          2840,
+          2736,
+          2260,
+          2124,
+          2108
+        ]
+      },
+      "subcategory_breakdown": {
+        "labels": [
+          "Dermatitis (Eczema)",
+          "Fungal skin infections (Ringworm/Tinea)",
+          "Urticaria (Allergies)",
+          "Acne",
+          "Psoriasis"
+        ],
+        "values": [
+          118393,
+          12145,
+          8260,
+          3596,
+          198
+        ]
+      },
+      "top_facilities": {
+        "labels": [
+          "UPHC Sudikonda",
+          "PHC RAJUGUDEM",
+          "UPHC Devangampeta",
+          "UPHC Thungalam",
+          "UPHC Gandhi Nagar",
+          "PHC KOLAKALURU",
+          "UPHC Dayalnagar",
+          "UPHC Maruthi Nagar",
+          "UPHC Kranthinagar",
+          "UPHC Railpeta"
+        ],
+        "values": [
+          4690,
+          2584,
+          1589,
+          1414,
+          1308,
+          1096,
+          1044,
+          1025,
+          999,
+          994
+        ]
+      },
+      "type_breakdown": {
+        "PHC": 74847,
+        "UPHC": 67724
+      },
+      "facility_details": [
+        {
+          "facility_name": "UPHC Sudikonda",
+          "total_count": 4690,
+          "unique_diagnoses": 9
+        },
+        {
+          "facility_name": "PHC RAJUGUDEM",
+          "total_count": 2584,
+          "unique_diagnoses": 8
+        },
+        {
+          "facility_name": "UPHC Devangampeta",
+          "total_count": 1589,
+          "unique_diagnoses": 9
+        },
+        {
+          "facility_name": "UPHC Thungalam",
+          "total_count": 1414,
+          "unique_diagnoses": 2
+        },
+        {
+          "facility_name": "UPHC Gandhi Nagar",
+          "total_count": 1308,
+          "unique_diagnoses": 18
+        },
+        {
+          "facility_name": "PHC KOLAKALURU",
+          "total_count": 1096,
+          "unique_diagnoses": 9
+        },
+        {
+          "facility_name": "UPHC Dayalnagar",
+          "total_count": 1044,
+          "unique_diagnoses": 11
+        },
+        {
+          "facility_name": "UPHC Maruthi Nagar",
+          "total_count": 1025,
+          "unique_diagnoses": 11
+        },
+        {
+          "facility_name": "UPHC Kranthinagar",
+          "total_count": 999,
+          "unique_diagnoses": 10
+        },
+        {
+          "facility_name": "UPHC Railpeta",
+          "total_count": 994,
+          "unique_diagnoses": 8
+        }
+      ]
+    },
+    "Endocrine, Nutritional & Metabolic": {
+      "metrics": {
+        "total_diagnoses": 1471797,
+        "unique_facilities": 1619,
+        "unique_diagnosis_types": 557,
+        "avg_per_facility": 909.08
+      },
+      "top_diagnoses": {
+        "labels": [
+          "Diabetes mellitus",
+          "DM - Diabetes mellitus",
+          "Anemia",
+          "Diabetic foot",
+          "Anaemia",
+          "Diabetic iritis",
+          "Iron deficiency",
+          "Anemia of pregnancy",
+          "Hyperglycemia",
+          "Latent diabetes"
+        ],
+        "values": [
+          706645,
+          472414,
+          82541,
+          77992,
+          20583,
+          14873,
+          13852,
+          13284,
+          10704,
+          9446
+        ]
+      },
+      "subcategory_breakdown": {
+        "labels": [
+          "Diabetes Mellitus (Type 1 & 2)",
+          "Anemia (Iron deficiency)",
+          "Vitamin Deficiencies (A,B,C,D)",
+          "Malnutrition",
+          "Hypothyroidism",
+          "Goiter",
+          "Thyrotoxicosis"
+        ],
+        "values": [
+          1313681,
+          119267,
+          29316,
+          7631,
+          1819,
+          79,
+          4
+        ]
+      },
+      "top_facilities": {
+        "labels": [
+          "UPHC Kothapeta",
+          "UPHC V.L.Puram",
+          "UPHC Market Yard",
+          "UPHC Slaughterpeta",
+          "UPHC Lambadipeta",
+          "UPHC Maruthi Nagar",
+          "UPHC Gunadala",
+          "UPHC NTR Colony",
+          "UPHC Ramalingeswara Nagar-6",
+          "UPHC Ambedkar Nagar"
+        ],
+        "values": [
+          10551,
+          10193,
+          9062,
+          8507,
+          8388,
+          7802,
+          7503,
+          7337,
+          6945,
+          6431
+        ]
+      },
+      "type_breakdown": {
+        "PHC": 414298,
+        "UPHC": 1057470
+      },
+      "facility_details": [
+        {
+          "facility_name": "UPHC Kothapeta",
+          "total_count": 10551,
+          "unique_diagnoses": 21
+        },
+        {
+          "facility_name": "UPHC V.L.Puram",
+          "total_count": 10193,
+          "unique_diagnoses": 2
+        },
+        {
+          "facility_name": "UPHC Market Yard",
+          "total_count": 9062,
+          "unique_diagnoses": 10
+        },
+        {
+          "facility_name": "UPHC Slaughterpeta",
+          "total_count": 8507,
+          "unique_diagnoses": 7
+        },
+        {
+          "facility_name": "UPHC Lambadipeta",
+          "total_count": 8388,
+          "unique_diagnoses": 14
+        },
+        {
+          "facility_name": "UPHC Maruthi Nagar",
+          "total_count": 7802,
+          "unique_diagnoses": 11
+        },
+        {
+          "facility_name": "UPHC Gunadala",
+          "total_count": 7503,
+          "unique_diagnoses": 9
+        },
+        {
+          "facility_name": "UPHC NTR Colony",
+          "total_count": 7337,
+          "unique_diagnoses": 14
+        },
+        {
+          "facility_name": "UPHC Ramalingeswara Nagar-6",
+          "total_count": 6945,
+          "unique_diagnoses": 12
+        },
+        {
+          "facility_name": "UPHC Ambedkar Nagar",
+          "total_count": 6431,
+          "unique_diagnoses": 12
+        }
+      ]
+    },
+    "Others": {
+      "metrics": {
+        "total_diagnoses": 1668981,
+        "unique_facilities": 1677,
+        "unique_diagnosis_types": 3368,
+        "avg_per_facility": 995.22
+      },
+      "top_diagnoses": {
+        "labels": [
+          "Whooping cough",
+          "Heat pyrexia",
+          "Vomiting",
+          "Weakness of arm",
+          "Weakness of leg",
+          "Red eye",
+          "Rhinitis",
+          "Red throat",
+          "Bulbar weakness",
+          "Pharyngitis"
+        ],
+        "values": [
+          204999,
+          174332,
+          173299,
+          165356,
+          131333,
+          89459,
+          77213,
+          43780,
+          43632,
+          41483
+        ]
+      },
+      "subcategory_breakdown": {
+        "labels": [
+          "Others"
+        ],
+        "values": [
+          1668981
+        ]
+      },
+      "top_facilities": {
+        "labels": [
+          "UPHC Pudupeta North (Chavidi)",
+          "UPHC Naik Nagar",
+          "UPHC Sathrawada",
+          "UPHC Lambadipeta",
+          "UPHC NGO Colony",
+          "UPHC Kothapeta",
+          "PHC KOLAKALURU",
+          "UPHC Kambalapeta",
+          "UPHC Maddilapalem",
+          "UPHC Aretamma Colony(Bestha Veedhi) Puttur"
+        ],
+        "values": [
+          14630,
+          9330,
+          8826,
+          8491,
+          8194,
+          8127,
+          8058,
+          7038,
+          7016,
+          6421
+        ]
+      },
+      "type_breakdown": {
+        "PHC": 741988,
+        "UPHC": 924440
+      },
+      "facility_details": [
+        {
+          "facility_name": "UPHC Pudupeta North (Chavidi)",
+          "total_count": 14630,
+          "unique_diagnoses": 48
+        },
+        {
+          "facility_name": "UPHC Naik Nagar",
+          "total_count": 9330,
+          "unique_diagnoses": 34
+        },
+        {
+          "facility_name": "UPHC Sathrawada",
+          "total_count": 8826,
+          "unique_diagnoses": 21
+        },
+        {
+          "facility_name": "UPHC Lambadipeta",
+          "total_count": 8491,
+          "unique_diagnoses": 65
+        },
+        {
+          "facility_name": "UPHC NGO Colony",
+          "total_count": 8194,
+          "unique_diagnoses": 114
+        },
+        {
+          "facility_name": "UPHC Kothapeta",
+          "total_count": 8127,
+          "unique_diagnoses": 122
+        },
+        {
+          "facility_name": "PHC KOLAKALURU",
+          "total_count": 8058,
+          "unique_diagnoses": 45
+        },
+        {
+          "facility_name": "UPHC Kambalapeta",
+          "total_count": 7038,
+          "unique_diagnoses": 46
+        },
+        {
+          "facility_name": "UPHC Maddilapalem",
+          "total_count": 7016,
+          "unique_diagnoses": 17
+        },
+        {
+          "facility_name": "UPHC Aretamma Colony(Bestha Veedhi) Puttur",
+          "total_count": 6421,
+          "unique_diagnoses": 16
+        }
+      ]
+    },
+    "Respiratory System": {
+      "metrics": {
+        "total_diagnoses": 1019767,
+        "unique_facilities": 1654,
+        "unique_diagnosis_types": 166,
+        "avg_per_facility": 616.55
+      },
+      "top_diagnoses": {
+        "labels": [
+          "Cold",
+          "COLD",
+          "Asthma",
+          "Cough fracture",
+          "Respiratory tract congestion and cough",
+          "Millers' cough",
+          "Smokers' cough",
+          "Bronchitis",
+          "Tonsillitis",
+          "Allergic rhinitis"
+        ],
+        "values": [
+          515750,
+          249048,
+          64787,
+          42250,
+          27953,
+          23130,
+          19491,
+          13913,
+          6538,
+          6436
+        ]
+      },
+      "subcategory_breakdown": {
+        "labels": [
+          "Common Cold",
+          "Bronchitis",
+          "Asthma",
+          "Sinusitis",
+          "Tonsillitis",
+          "Rhinitis",
+          "Pharyngitis",
+          "Pneumonia",
+          "COPD",
+          "Pleural Effusion"
+        ],
+        "values": [
+          771723,
+          139723,
+          77729,
+          7252,
+          6810,
+          6772,
+          5279,
+          4309,
+          167,
+          3
+        ]
+      },
+      "top_facilities": {
+        "labels": [
+          "UPHC Innispeta",
+          "PHC CHATRAI",
+          "UPHC Ramireddypet",
+          "PHC AKUMALLA",
+          "UPHC Indira Nagar",
+          "PHC YADAVOLU",
+          "PHC TADUVAI",
+          "PHC RAJUPALEM",
+          "PHC W KOTHAPALLI",
+          "PHC KOTHULA GOKAVARAM"
+        ],
+        "values": [
+          6685,
+          5920,
+          5911,
+          5471,
+          5430,
+          4844,
+          4826,
+          4495,
+          4477,
+          4450
+        ]
+      },
+      "type_breakdown": {
+        "PHC": 542874,
+        "UPHC": 476703
+      },
+      "facility_details": [
+        {
+          "facility_name": "UPHC Innispeta",
+          "total_count": 6685,
+          "unique_diagnoses": 11
+        },
+        {
+          "facility_name": "PHC CHATRAI",
+          "total_count": 5920,
+          "unique_diagnoses": 2
+        },
+        {
+          "facility_name": "UPHC Ramireddypet",
+          "total_count": 5911,
+          "unique_diagnoses": 5
+        },
+        {
+          "facility_name": "PHC AKUMALLA",
+          "total_count": 5471,
+          "unique_diagnoses": 5
+        },
+        {
+          "facility_name": "UPHC Indira Nagar",
+          "total_count": 5430,
+          "unique_diagnoses": 23
+        },
+        {
+          "facility_name": "PHC YADAVOLU",
+          "total_count": 4844,
+          "unique_diagnoses": 5
+        },
+        {
+          "facility_name": "PHC TADUVAI",
+          "total_count": 4826,
+          "unique_diagnoses": 15
+        },
+        {
+          "facility_name": "PHC RAJUPALEM",
+          "total_count": 4495,
+          "unique_diagnoses": 12
+        },
+        {
+          "facility_name": "PHC W KOTHAPALLI",
+          "total_count": 4477,
+          "unique_diagnoses": 5
+        },
+        {
+          "facility_name": "PHC KOTHULA GOKAVARAM",
+          "total_count": 4450,
+          "unique_diagnoses": 6
+        }
+      ]
+    },
+    "Cardiovascular (Circulatory)": {
+      "metrics": {
+        "total_diagnoses": 1204220,
+        "unique_facilities": 1604,
+        "unique_diagnosis_types": 196,
+        "avg_per_facility": 750.76
+      },
+      "top_diagnoses": {
+        "labels": [
+          "Hypertension",
+          "HTN - Hypertension",
+          "HT - Hypertension",
+          "BP+ - Hypertension",
+          "Hypotension",
+          "Hypertension, NOS",
+          "Weak heart",
+          "Heat hyperpyrexia",
+          "Abdominal angina",
+          "Antenatal DVT"
+        ],
+        "values": [
+          719157,
+          345170,
+          65036,
+          35589,
+          15689,
+          4449,
+          2995,
+          2957,
+          2776,
+          1925
+        ]
+      },
+      "subcategory_breakdown": {
+        "labels": [
+          "Hypertension (HTN)",
+          "Ischemic Heart Disease (Angina, MI)",
+          "Heart Failure",
+          "Varicose Veins",
+          "Rheumatic Heart Disease"
+        ],
+        "values": [
+          1190076,
+          10783,
+          3182,
+          105,
+          74
+        ]
+      },
+      "top_facilities": {
+        "labels": [
+          "UPHC Kothapeta",
+          "UPHC Market Yard",
+          "UPHC Chilakalapudi",
+          "UPHC Dayalnagar",
+          "UPHC NGO Colony",
+          "UPHC NTR Colony",
+          "UPHC Bhavani Puram-3",
+          "UPHC Scavengers Colony",
+          "UPHC Gandhi Nagar",
+          "UPHC Ramalingeswara Nagar-6"
+        ],
+        "values": [
+          8700,
+          7608,
+          6478,
+          6002,
+          5676,
+          5557,
+          5541,
+          5254,
+          5213,
+          5168
+        ]
+      },
+      "type_breakdown": {
+        "PHC": 351418,
+        "UPHC": 852277
+      },
+      "facility_details": [
+        {
+          "facility_name": "UPHC Kothapeta",
+          "total_count": 8700,
+          "unique_diagnoses": 8
+        },
+        {
+          "facility_name": "UPHC Market Yard",
+          "total_count": 7608,
+          "unique_diagnoses": 1
+        },
+        {
+          "facility_name": "UPHC Chilakalapudi",
+          "total_count": 6478,
+          "unique_diagnoses": 3
+        },
+        {
+          "facility_name": "UPHC Dayalnagar",
+          "total_count": 6002,
+          "unique_diagnoses": 6
+        },
+        {
+          "facility_name": "UPHC NGO Colony",
+          "total_count": 5676,
+          "unique_diagnoses": 12
+        },
+        {
+          "facility_name": "UPHC NTR Colony",
+          "total_count": 5557,
+          "unique_diagnoses": 6
+        },
+        {
+          "facility_name": "UPHC Bhavani Puram-3",
+          "total_count": 5541,
+          "unique_diagnoses": 4
+        },
+        {
+          "facility_name": "UPHC Scavengers Colony",
+          "total_count": 5254,
+          "unique_diagnoses": 3
+        },
+        {
+          "facility_name": "UPHC Gandhi Nagar",
+          "total_count": 5213,
+          "unique_diagnoses": 5
+        },
+        {
+          "facility_name": "UPHC Ramalingeswara Nagar-6",
+          "total_count": 5168,
+          "unique_diagnoses": 6
+        }
+      ]
+    },
+    "Neurological & Mental Health": {
+      "metrics": {
+        "total_diagnoses": 1079618,
+        "unique_facilities": 1668,
+        "unique_diagnosis_types": 825,
+        "avg_per_facility": 647.25
+      },
+      "top_diagnoses": {
+        "labels": [
+          "Sick headache",
+          "Cough syncope",
+          "Tension headache",
+          "Daily headache",
+          "Pain only bends",
+          "Respiratory disease",
+          "Restless legs",
+          "Painful legs and moving toes",
+          "Migraine",
+          "Aural vertigo"
+        ],
+        "values": [
+          380929,
+          268677,
+          75070,
+          69002,
+          59014,
+          44565,
+          26315,
+          25158,
+          23291,
+          17652
+        ]
+      },
+      "subcategory_breakdown": {
+        "labels": [
+          "Headache",
+          "Vertigo",
+          "Migraine",
+          "Anxiety disorders",
+          "Alcohol dependence",
+          "Neuropathy",
+          "Insomnia",
+          "Epilepsy (Seizures)",
+          "Depression"
+        ],
+        "values": [
+          651811,
+          296624,
+          68987,
+          53343,
+          5153,
+          2301,
+          888,
+          376,
+          135
+        ]
+      },
+      "top_facilities": {
+        "labels": [
+          "UPHC Gajulapalem",
+          "PHC KOLAKALURU",
+          "UPHC Pudupeta North (Chavidi)",
+          "PHC BODDAM",
+          "UPHC Shanthi Nagar",
+          "UPHC NGO Colony",
+          "PHC EMANI",
+          "PHC PANIDAM",
+          "PHC PETLURU",
+          "UPHC Peerlamanyam"
+        ],
+        "values": [
+          7371,
+          7264,
+          6056,
+          5397,
+          5193,
+          4653,
+          4583,
+          4417,
+          4402,
+          4402
+        ]
+      },
+      "type_breakdown": {
+        "PHC": 579653,
+        "UPHC": 499823
+      },
+      "facility_details": [
+        {
+          "facility_name": "UPHC Gajulapalem",
+          "total_count": 7371,
+          "unique_diagnoses": 3
+        },
+        {
+          "facility_name": "PHC KOLAKALURU",
+          "total_count": 7264,
+          "unique_diagnoses": 12
+        },
+        {
+          "facility_name": "UPHC Pudupeta North (Chavidi)",
+          "total_count": 6056,
+          "unique_diagnoses": 13
+        },
+        {
+          "facility_name": "PHC BODDAM",
+          "total_count": 5397,
+          "unique_diagnoses": 5
+        },
+        {
+          "facility_name": "UPHC Shanthi Nagar",
+          "total_count": 5193,
+          "unique_diagnoses": 21
+        },
+        {
+          "facility_name": "UPHC NGO Colony",
+          "total_count": 4653,
+          "unique_diagnoses": 35
+        },
+        {
+          "facility_name": "PHC EMANI",
+          "total_count": 4583,
+          "unique_diagnoses": 9
+        },
+        {
+          "facility_name": "PHC PANIDAM",
+          "total_count": 4417,
+          "unique_diagnoses": 31
+        },
+        {
+          "facility_name": "PHC PETLURU",
+          "total_count": 4402,
+          "unique_diagnoses": 20
+        },
+        {
+          "facility_name": "UPHC Peerlamanyam",
+          "total_count": 4402,
+          "unique_diagnoses": 20
+        }
+      ]
+    },
+    "Genitourinary & Reproductive": {
+      "metrics": {
+        "total_diagnoses": 168956,
+        "unique_facilities": 1549,
+        "unique_diagnosis_types": 405,
+        "avg_per_facility": 109.07
+      },
+      "top_diagnoses": {
+        "labels": [
+          "Period pain",
+          "UTI - Urinary tract infection",
+          "Pregnancy mask",
+          "Abdominal pregnancy",
+          "Epidemic myalgia",
+          "Urinary tract infection",
+          "Dysmenorrhea",
+          "Menstrual cramps",
+          "Vomiting of pregnancy",
+          "Menorrhalgia"
+        ],
+        "values": [
+          35048,
+          34541,
+          20006,
+          13998,
+          10004,
+          8773,
+          6414,
+          4335,
+          2674,
+          2496
+        ]
+      },
+      "subcategory_breakdown": {
+        "labels": [
+          "Menstrual disorders (Dysmenorrhea, Amenorrhea)",
+          "Pregnancy induced hypertension (PIH)",
+          "Urinary Tract Infections (UTI)",
+          "PID",
+          "Vaginitis",
+          "Renal Failure",
+          "Hyperemesis Gravidarum",
+          "Renal Calculi (Stones)",
+          "Abortion/Miscarriage",
+          "Prolapse"
+        ],
+        "values": [
+          52672,
+          49652,
+          46599,
+          11340,
+          4816,
+          1770,
+          1184,
+          552,
+          238,
+          133
+        ]
+      },
+      "top_facilities": {
+        "labels": [
+          "UPHC Salipeta (Gajendra Nagar)",
+          "UPHC Srikrishnapuram",
+          "UPHC Kanekal Road",
+          "UPHC Butchim Peta",
+          "UPHC LA Sagaram",
+          "UPHC Donthi Street",
+          "PHC MOLAKAVEMULA",
+          "UPHC Prakasam Road-1",
+          "UPHC Sekhar Colony-1(Journalist Colony-2)Yerramitta",
+          "UPHC Thurpumogasala-1(Muddeppa Circle)"
+        ],
+        "values": [
+          3056,
+          2182,
+          2106,
+          1466,
+          1420,
+          1217,
+          1196,
+          1128,
+          1071,
+          1065
+        ]
+      },
+      "type_breakdown": {
+        "PHC": 82697,
+        "UPHC": 86251
+      },
+      "facility_details": [
+        {
+          "facility_name": "UPHC Salipeta (Gajendra Nagar)",
+          "total_count": 3056,
+          "unique_diagnoses": 5
+        },
+        {
+          "facility_name": "UPHC Srikrishnapuram",
+          "total_count": 2182,
+          "unique_diagnoses": 4
+        },
+        {
+          "facility_name": "UPHC Kanekal Road",
+          "total_count": 2106,
+          "unique_diagnoses": 8
+        },
+        {
+          "facility_name": "UPHC Butchim Peta",
+          "total_count": 1466,
+          "unique_diagnoses": 4
+        },
+        {
+          "facility_name": "UPHC LA Sagaram",
+          "total_count": 1420,
+          "unique_diagnoses": 10
+        },
+        {
+          "facility_name": "UPHC Donthi Street",
+          "total_count": 1217,
+          "unique_diagnoses": 10
+        },
+        {
+          "facility_name": "PHC MOLAKAVEMULA",
+          "total_count": 1196,
+          "unique_diagnoses": 8
+        },
+        {
+          "facility_name": "UPHC Prakasam Road-1",
+          "total_count": 1128,
+          "unique_diagnoses": 22
+        },
+        {
+          "facility_name": "UPHC Sekhar Colony-1(Journalist Colony-2)Yerramitta",
+          "total_count": 1071,
+          "unique_diagnoses": 11
+        },
+        {
+          "facility_name": "UPHC Thurpumogasala-1(Muddeppa Circle)",
+          "total_count": 1065,
+          "unique_diagnoses": 15
+        }
+      ]
+    }
+  }
+}
