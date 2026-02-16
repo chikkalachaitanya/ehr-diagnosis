@@ -6,7 +6,7 @@ import os
 # Load the diagnosis data
 print("Loading diagnosis data...")
 try:
-    df = pd.read_excel('../diagnosis_cs.xlsx')
+    df = pd.read_excel(diagnosis_cs.xlsx')
 except FileNotFoundError:
     print("Error: '../diagnosis_cs.xlsx' not found.")
     exit(1)
@@ -158,3 +158,4 @@ print(f"  Total Diagnoses: {total_diagnoses:,}")
 print(f"  Unique Facilities: {unique_facilities:,}")
 print(f"  Unique Diagnosis Types: {unique_diagnoses:,}")
 print(f"  Average per Facility: {avg_per_facility:,.2f}")
+
